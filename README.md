@@ -1,7 +1,7 @@
 # AS2GO-Prepare-Admin-PC
 Files to prepare the AS2GO | ADmin PC
 
-Find more information here in my blog post  * [AS2Go | Lab Setup | Domain Controller](https://herrhozi.com/2022/01/04/as2go-lab-setup-domain-controller/): 
+Find more information here in my blog post [AS2Go | Lab Setup | Admin PC](https://herrhozi.com/2022/01/05/as2go-lab-setup-admin-pc/). 
 
 ## Quick Start Guide
 Open a Admin PowerShell terminal. The following command simulate some domain activities creates valid tickets.
