@@ -1,5 +1,5 @@
 ﻿# Created by hozimmer@microsoft.com
-# create a short cut on C:\Users\Public\Desktop
+# Simulate domain activities from AdminPC
 # start with Domain Admin (DA-xxxxx) on ADMIN Workstation for command 'dir \\<your DC>\c$' 
 
 
