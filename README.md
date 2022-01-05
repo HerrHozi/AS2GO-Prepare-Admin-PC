@@ -4,7 +4,7 @@ Files to prepare the AS2GO | ADmin PC
 Find more information here in my blog post  * [AS2Go | Lab Setup | Domain Controller](https://herrhozi.com/2022/01/04/as2go-lab-setup-domain-controller/): 
 
 ## Quick Start Guide
-Open a Admin PowerShell terminal from the Windows command. The following command simulate some domain activities creates valid tickets.
+Open a Admin PowerShell terminal. The following command simulate some domain activities creates valid tickets.
 ```PowerShell
 Create-DA-Tickets.ps1
 ```
